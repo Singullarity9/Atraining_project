@@ -1,1 +1,2 @@
 store1 text1.txt v1
+store1 text1.txt v2
